@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WikipediaSearch</string>
+    <string name="msg_no_query">Please enter search text</string>
+</resources>
