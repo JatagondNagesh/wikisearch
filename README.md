@@ -23,3 +23,4 @@ Instant search for wiki pages using https://www.mediawiki.org/wiki/API:Page_info
 2. Dagger to Koin
 3. RxJava to Coroutines
 4. Unit Test, Integration Test and UI Test
+5. Glide to Coil - Kotlin-first image loading on Android
